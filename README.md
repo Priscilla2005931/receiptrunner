@@ -75,7 +75,7 @@ Cloud Function: receiptrunner-report
 4. **Authenticate with Google Cloud**
    ```bash
    gcloud auth application-default login
-   gcloud config set project YOUR_PROJECT_ID
+   gcloud config set project receiptrunner-hackathon
    ```
 
 5. **Set up Gmail OAuth credentials**
